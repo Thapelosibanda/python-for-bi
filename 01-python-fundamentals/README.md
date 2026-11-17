@@ -35,4 +35,4 @@ The exercises focus on business scenarios such as:
 
 ## Learning Objective
 
-Develop a strong Python foundation that can be applied to data analysis, data cleaning, data transformation and ETL development.
+I want to develop a strong Python foundation that can be applied to data analysis, data cleaning, data transformation and ETL development.
